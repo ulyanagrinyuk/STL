@@ -84,7 +84,6 @@ void main()
 #endif // STL_VECTOR
 }
 
-
 template<typename T> void vector_properties(const std::vector<T>& vec)
 {
 	cout << "Size: " << vec.size() << endl;
